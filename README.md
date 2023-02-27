@@ -41,12 +41,9 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
 -	Swing
 - Git e Github
 
-## 🔗 Link do Projeto: https://devpbleite.github.io/encode-challenge/
+## 🔗 Baixe o executável e teste: [Aqui.](https://github.com/devpbleite/money-exchange-ONE/blob/main/money-exchange.jar)
 
 ## 📌 Resultado do Projeto:
-
-<img src="https://user-images.githubusercontent.com/75498380/221621582-fb53f4f7-7164-4e4f-b5c2-f29757f36d8f.mp4" width="100%"><br><br>
-
 
 
 
