@@ -34,7 +34,7 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
 ## Extras: Em construção.
 
  - Adicionar a aplicação um conversor de temperaturas.
- - Consumir API externa para fazer conversões com as cotações atuais.
+ - Consumir API externa para fazer conversões em tempo real.
 
 ## Tecnologias Utilizadas:
 -	Java
