@@ -1,1 +1,55 @@
-# money-exchange-ONE
+# Oracle + Alura 💻🤟  <img align="right" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-one-logo.png"><br><br>
+<a href="https://www.linkedin.com/in/pabloleite03/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "mailto:devpbleite@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/channels/@PabloL#3331" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<img align="right" src="https://github.com/devpbleite/money-exchange-ONE/blob/main/assets/badge.png" width="18%">
+
+# Challenge ONE - #challengeonedeconversor4
+
+ -  O challenge em questão se baseaia na construção de uma aplicação de conversão de moedas.
+
+## Sobre o Projeto:
+___
+
+  - A aplicação foi desenvolvida utilizando a linguagem Java e a biblioteca Swing para a criação de telas simples.
+
+## Requisitos:
+
+ O conversor de moeda deverá:
+ 
+     - Converter de Reais a Dólar
+     - Converter de Reais a Euro
+     - Converter de Reais a Libras Esterlinas
+     - Converter de Reais a Peso argentino
+     - Converter de Reais a Peso Chileno
+     
+Lembrando que deve ser possível também converter de forma inversa ou seja:
+
+       - Converter de Dólar a Reais
+       - Converter de Euro a Reais
+       - Converter de Libras Esterlinas a Reais
+       - Converter de Peso argentino a  Reais
+       - Converter de Peso Chileno a Reais     
+
+## Extras: Em construção.
+
+ - Adicionar a aplicação um conversor de temperaturas.
+ - Consumir API externa para fazer conversões com as cotações atuais.
+
+## Tecnologias Utilizadas:
+-	Java
+-	Swing
+- Git e Github
+
+## 🔗 Link do Projeto: https://devpbleite.github.io/encode-challenge/
+
+## 📌 Resultado do Projeto:
+
+<img src="https://user-images.githubusercontent.com/75498380/221621582-fb53f4f7-7164-4e4f-b5c2-f29757f36d8f.mp4" width="100%"><br><br>
+
+
+
+
+
+https://user-images.githubusercontent.com/75498380/221621582-fb53f4f7-7164-4e4f-b5c2-f29757f36d8f.mp4
+
