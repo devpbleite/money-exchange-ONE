@@ -40,6 +40,7 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
 -	Java
 -	Swing
 - Git e Github
+___
 
 ## 🔗 Baixe o executável e teste: [Aqui.](https://github.com/devpbleite/money-exchange-ONE/blob/main/money-exchange.jar)
 
